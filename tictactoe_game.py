@@ -22,7 +22,7 @@ def checkBoard():
         print(player + " wins!")
 
 
-        
+        #prints board using fancy loop :) 
 def printBoard():
     print("\n━━━━━━━━━━━━━")
     index = 0
